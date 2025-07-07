@@ -2,4 +2,4 @@ resources:
   - operator-group.yml
   - subscription.yml
   - platform.yml
-  - service-account.yml
+  # - service-account.yml
